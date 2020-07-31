@@ -14,7 +14,7 @@ function Home() {
       <BannerMain
         videoTitle={dadosInicias.categorias[0].videos[0].titulo}
         url={dadosInicias.categorias[0].videos[0].url}
-        videoDescription={"O que é Front-end?"}
+        videoDescription={"Para espantar a tristeza!!"}
       />
 
       <Carousel
