@@ -1,183 +1,198 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
+      "titulo": "Fila de piadas",
+      "link": "https://www.youtube.com/c/4AMIGOSSTANDUPCOMEDY/featured",
+      "cor": "#245892",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "4 Amigos - Filas de piadas",
+        "url": "https://www.youtube.com/watch?v=jLNeQ306jds&list=PLMFCsGFEOM1yZxZ4P6S-sWsitZ79sYEVP"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "4 Amigos - Especial completo 'Te apresento meu amigo' - fila de piadas 100",
+          "url": "https://www.youtube.com/watch?v=16gSBDTPGSA&t=1s"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Fila de piadas - Família - #145 Participação Whinderson Nunes",
+          "url": "https://www.youtube.com/watch?v=yAFiQCdfeBg"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Fila de piadas - Apelido - #128 Participação Nil Agra",
+          "url": "https://www.youtube.com/watch?v=02_v74Dw3b0"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Fila de piadas - Histórias constrangedoras - #51 feat. Renato Albani",
+          "url": "https://www.youtube.com/watch?v=XzQCZHVmk4k"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Fila de piadas - Viagem - #140 Participação Fábio Porchat",
+          "url": "https://www.youtube.com/watch?v=C6iW2rMUXTU"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Fila de piadas - Bullying - #111 Participação Rodrigo Marques",
+          "url": "https://www.youtube.com/watch?v=kTd2YFrd8-I"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "Fila de piadas - Humor negro - #142 Participação Léo Lins",
+          "url": "https://www.youtube.com/watch?v=nG140WXUTBs&t=1136s"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Fila de piadas - Tesão - #113 Participação Bruna Louise",
+          "url": "https://www.youtube.com/watch?v=cQQyAu-fkj0"
         }        
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Bruna Louise",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Stand Up - Bruna Louise",
+        "url": "https://www.youtube.com/user/brunalouisehumor"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Carente na quarentena - Stand Up",
+          "url": "https://www.youtube.com/watch?v=LwLXJTGXPAE"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "Bateria de exames - Stand Up",
+          "url": "https://www.youtube.com/watch?v=IGd12wNS6cE"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Mulher finge sim - Stand Up",
+          "url": "https://www.youtube.com/watch?v=e5gSWMQzxAk"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "Salão de beleza - Stand Up",
+          "url": "https://www.youtube.com/watch?v=MniTaB78Dlk"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Reveillon dos humoristas participação Thiago Ventura - Stand Up",
+          "url": "https://www.youtube.com/watch?v=BgXrMdt2TbM"
+        },
+        {
+          "titulo": "Levei um fora - Stand Up",
+          "url": "https://www.youtube.com/watch?v=TQIPCa3ZwdQ"
+        },
+        {
+          "titulo": "Fui pra disney - Stand Up",
+          "url": "https://www.youtube.com/watch?v=WgM2WTi40ic"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Igor Guimarães",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Melhores momentos Igor Guimarães",
+        "url": "https://www.youtube.com/channel/UCuprUxkIqGxWhPPqBmYHAJA"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Igor Guimarães - Stand up na fogueira",
+          "url": "https://www.youtube.com/watch?v=jbjAfLIdBzQ"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Igor Guimarães - Stand up - Ibuprofeno",
+          "url": "https://www.youtube.com/watch?v=r9xcq9x5dpU"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "#StandupNoComedy - Igor Guimarães fala sobre a dengue",
+          "url": "https://www.youtube.com/watch?v=9mdzX4le1PA"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Igor Guimarães - Para rir muito",
+          "url": "https://www.youtube.com/watch?v=Y6fIRgzzWAE"
+        },
+        {
+          "titulo": "Não pode rir! Todos contra Igor Guimarães",
+          "url": "https://www.youtube.com/watch?v=XknXxhAG2Cc"
         }
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "Mauricio Meirelles",
       "cor": "orange",
+      "link_extra": {
+        "text": "T.R.A.U.M.A.S",
+        "url": "https://www.youtube.com/watch?v=1HNAZb9EE0Y&list=PLk_e6laOs_lQQlkwv6XCy2uMVmuW8MaK5"
+      },
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "T.R.A.U.M.A.S #96",
+          "url": "https://www.youtube.com/watch?v=oVfm1f-1pTc"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "T.R.A.U.M.A.S #81",
+          "url": "https://www.youtube.com/watch?v=z0oCjl10G10"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "T.R.A.U.M.A.S #102",
+          "url": "https://www.youtube.com/watch?v=meGe0SXEVvw"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "T.R.A.U.M.A.S #98",
+          "url": "https://www.youtube.com/watch?v=5Pp5ibvFzRw"
         }
       ]
     },
     {
-      "titulo": "Games",
+      "titulo": "Especiais Stand Up",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
-      },
+        "text": "Especiais do Stand Up brasileiro"
+        },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "Especial Renato Albani",
+          "url": "https://www.youtube.com/watch?v=0l393CcMDew"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Especial Murilo Couto",
+          "url": "https://www.youtube.com/watch?v=FTZipdQWlv0"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Especial Thiago Ventura",
+          "url": "https://www.youtube.com/watch?v=NDaq1MPl4Ac"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "Especial Jansen Serra",
+          "url": "https://www.youtube.com/watch?v=UWjva1RcpNM"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "Especial Dihh Lopes",
+          "url": "https://www.youtube.com/watch?v=ibNPaUZnfEE"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "Comedy Central Brasil",
       "cor": "#6b5be2",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        "text": "A culpa é do cabral",
+        "url": "https://www.youtube.com/channel/UCgOObQ-WkK2EA4CwXWspHGQ"
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "Balão das Datas Brasileiras",
+          "url": "https://www.youtube.com/watch?v=0v-3Zux03Pg"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "Aconteceu Comigo",
+          "url": "https://www.youtube.com/watch?v=8Viq4MKqJpM"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Lambida no Olho",
+          "url": "https://www.youtube.com/watch?v=ngzFaKwhX78"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "Quem passou vergonha falando inglês",
+          "url": "https://www.youtube.com/watch?v=QigxMKGMJK8"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "Balão das Notícias",
+          "url": "https://www.youtube.com/watch?v=ZOXUJ2lMwhA"
         }
       ]
     }
