@@ -13,10 +13,9 @@ function CadastroCategoria() {
   const [values, setValues] = useState(valoresIniciais);
 
   function setValue(chave, valor) {
-    // chave: nome, descricao, bla, bli
     setValues({
       ...values,
-      [chave]: valor, // nome: 'valor'
+      [chave]: valor,
     });
   }
 
@@ -26,9 +25,12 @@ function CadastroCategoria() {
       infosDoEvento.target.value,
     );
   }
+
+  // ============
+
   useEffect(() => {
     if (window.location.href.includes('localhost')) {
-      const URL = 'http://localhost:8080/categorias';
+      const URL = 'https://comedyfliix.herokuapp.com/categorias';
       fetch(URL)
         .then(async (respostaDoServer) => {
           if (respostaDoServer.ok) {
@@ -75,6 +77,18 @@ function CadastroCategoria() {
           value={values.descricao}
           onChange={handleChange}
         />
+        {/* <div>
+          <label>
+            Descrição:
+            <textarea
+              type="text"
+              value={values.descricao}
+              name="descricao"
+              onChange={handleChange}
+            />
+          </label>
+        </div> */}
+
         <FormField
           label="Cor"
           type="color"
@@ -82,6 +96,18 @@ function CadastroCategoria() {
           value={values.cor}
           onChange={handleChange}
         />
+        {/* <div>
+          <label>
+            Cor:
+            <input
+              type="color"
+              value={values.cor}
+              name="cor"
+              onChange={handleChange}
+            />
+          </label>
+        </div> */}
+
         <button type="submit">
           Cadastrar
         </button>
