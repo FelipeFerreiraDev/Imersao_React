@@ -3,14 +3,8 @@
         {
             "id": 1,
             "nome": "Front End",
-            "descricao": "Uma categoria", 
-            "cor": "#cbd1ff"
-        },
-        {
-            "id": 2,
-            "nome": "Back End",
-            "descricao": "Uma categoria", 
-            "cor": "#cbd1ff"
+            "descricao": "Uma categoria",
+            "cor": "#cbd1ff"    
         }
     ]
 }
