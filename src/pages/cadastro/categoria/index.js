@@ -33,7 +33,7 @@ function CadastroCategoria() {
        .then(async (respostaDoServer) =>{
           const resposta = await respostaDoServer.json();
           setCategorias([ ...resposta,]);
-        });})
+        });
 
   return (
     <PageDefault>
@@ -99,5 +99,5 @@ function CadastroCategoria() {
     </PageDefault>
   )
 }
-
+  )}
 export default CadastroCategoria
