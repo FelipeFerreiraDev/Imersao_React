@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import PageDefault from '../../../components/PageDefault';
 import FormField from '../../../components/FormField';
+import './style.css';
 
 function CadastroCategoria() {
   const valoresIniciais = {
@@ -72,7 +73,7 @@ function CadastroCategoria() {
           value={values.cor}
           onChange={handleChange}
         />
-        <button>
+        <button className="buttonAnimado">
           Cadastrar
         </button>
       </form>
@@ -93,7 +94,7 @@ function CadastroCategoria() {
         })}
       </ul>
 
-      <Link to="/">
+      <Link to="/" className="home">
         Ir para home
       </Link>
     </PageDefault>

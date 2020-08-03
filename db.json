@@ -1,16 +1,200 @@
 {
     "categorias": [
-        {
-            "id": 1,
-            "nome": "Front End",
-            "descricao": "Uma categoria",
-            "cor": "#cbd1ff"    
+      {
+        "titulo": "Fila de piadas",
+        "link": "https://www.youtube.com/c/4AMIGOSSTANDUPCOMEDY/featured",
+        "cor": "#245892",
+        "link_extra": {
+          "text": "4 Amigos - Filas de piadas",
+          "url": "https://www.youtube.com/watch?v=jLNeQ306jds&list=PLMFCsGFEOM1yZxZ4P6S-sWsitZ79sYEVP"
         },
-        {
-            "id": 2,
-            "nome": "Back End",
-            "descricao": "Duas categorias",
-            "cor": "#fff006"    
-        }
+        "videos": [
+          {
+            "titulo": "4 Amigos - Especial completo 'Te apresento meu amigo' - fila de piadas 100",
+            "url": "https://www.youtube.com/watch?v=16gSBDTPGSA&t=1s"
+          },
+          {
+            "titulo": "Fila de piadas - Família - #145 Participação Whinderson Nunes",
+            "url": "https://www.youtube.com/watch?v=yAFiQCdfeBg"
+          },
+          {
+            "titulo": "Fila de piadas - Apelido - #128 Participação Nil Agra",
+            "url": "https://www.youtube.com/watch?v=02_v74Dw3b0"
+          },
+          {
+            "titulo": "Fila de piadas - Histórias constrangedoras - #51 feat. Renato Albani",
+            "url": "https://www.youtube.com/watch?v=XzQCZHVmk4k"
+          },
+          {
+            "titulo": "Fila de piadas - Viagem - #140 Participação Fábio Porchat",
+            "url": "https://www.youtube.com/watch?v=C6iW2rMUXTU"
+          },
+          {
+            "titulo": "Fila de piadas - Bullying - #111 Participação Rodrigo Marques",
+            "url": "https://www.youtube.com/watch?v=kTd2YFrd8-I"
+          },
+          {
+            "titulo": "Fila de piadas - Humor negro - #142 Participação Léo Lins",
+            "url": "https://www.youtube.com/watch?v=nG140WXUTBs&t=1136s"
+          },
+          {
+            "titulo": "Fila de piadas - Tesão - #113 Participação Bruna Louise",
+            "url": "https://www.youtube.com/watch?v=cQQyAu-fkj0"
+          }        
+        ]
+      },
+      {
+        "titulo": "Bruna Louise",
+        "cor": "#00C86F",
+        "link_extra": {
+          "text": "Stand Up - Bruna Louise",
+          "url": "https://www.youtube.com/user/brunalouisehumor"
+        },
+        "videos": [
+          {
+            "titulo": "Carente na quarentena - Stand Up",
+            "url": "https://www.youtube.com/watch?v=LwLXJTGXPAE"
+          },
+          {
+            "titulo": "Bateria de exames - Stand Up",
+            "url": "https://www.youtube.com/watch?v=IGd12wNS6cE"
+          },
+          {
+            "titulo": "Mulher finge sim - Stand Up",
+            "url": "https://www.youtube.com/watch?v=e5gSWMQzxAk"
+          },
+          {
+            "titulo": "Salão de beleza - Stand Up",
+            "url": "https://www.youtube.com/watch?v=MniTaB78Dlk"
+          }, 
+          {
+            "titulo": "Reveillon dos humoristas participação Thiago Ventura - Stand Up",
+            "url": "https://www.youtube.com/watch?v=BgXrMdt2TbM"
+          },
+          {
+            "titulo": "Levei um fora - Stand Up",
+            "url": "https://www.youtube.com/watch?v=TQIPCa3ZwdQ"
+          },
+          {
+            "titulo": "Fui pra disney - Stand Up",
+            "url": "https://www.youtube.com/watch?v=WgM2WTi40ic"
+          }
+        ]
+      },
+      {
+        "titulo": "Igor Guimarães",
+        "cor": "#9cd33b",
+        "link_extra": {
+          "text": "Melhores momentos Igor Guimarães",
+          "url": "https://www.youtube.com/channel/UCuprUxkIqGxWhPPqBmYHAJA"
+        },
+        "videos": [
+          {
+            "titulo": "Igor Guimarães - Stand up na fogueira",
+            "url": "https://www.youtube.com/watch?v=jbjAfLIdBzQ"
+          },
+          {
+            "titulo": "Igor Guimarães - Stand up - Ibuprofeno",
+            "url": "https://www.youtube.com/watch?v=r9xcq9x5dpU"
+          },
+          {
+            "titulo": "#StandupNoComedy - Igor Guimarães fala sobre a dengue",
+            "url": "https://www.youtube.com/watch?v=9mdzX4le1PA"
+          },
+          {
+            "titulo": "Igor Guimarães - Para rir muito",
+            "url": "https://www.youtube.com/watch?v=Y6fIRgzzWAE"
+          },
+          {
+            "titulo": "Não pode rir! Todos contra Igor Guimarães",
+            "url": "https://www.youtube.com/watch?v=XknXxhAG2Cc"
+          }
+        ]
+      },
+      {
+        "titulo": "Mauricio Meirelles",
+        "cor": "orange",
+        "link_extra": {
+          "text": "T.R.A.U.M.A.S",
+          "url": "https://www.youtube.com/watch?v=1HNAZb9EE0Y&list=PLk_e6laOs_lQQlkwv6XCy2uMVmuW8MaK5"
+        },
+        "videos": [
+          {
+            "titulo": "T.R.A.U.M.A.S #96",
+            "url": "https://www.youtube.com/watch?v=oVfm1f-1pTc"
+          },
+          {
+            "titulo": "T.R.A.U.M.A.S #81",
+            "url": "https://www.youtube.com/watch?v=z0oCjl10G10"
+          },
+          {
+            "titulo": "T.R.A.U.M.A.S #102",
+            "url": "https://www.youtube.com/watch?v=meGe0SXEVvw"
+          },
+          {
+            "titulo": "T.R.A.U.M.A.S #98",
+            "url": "https://www.youtube.com/watch?v=5Pp5ibvFzRw"
+          }
+        ]
+      },
+      {
+        "titulo": "Especiais Stand Up",
+        "cor": "red",
+        "link_extra": {
+          "text": "Especiais do Stand Up brasileiro"
+          },
+        "videos": [
+          {
+            "titulo": "Especial Renato Albani",
+            "url": "https://www.youtube.com/watch?v=0l393CcMDew"
+          },
+          {
+            "titulo": "Especial Murilo Couto",
+            "url": "https://www.youtube.com/watch?v=FTZipdQWlv0"
+          },
+          {
+            "titulo": "Especial Thiago Ventura",
+            "url": "https://www.youtube.com/watch?v=NDaq1MPl4Ac"
+          },
+          {
+            "titulo": "Especial Jansen Serra",
+            "url": "https://www.youtube.com/watch?v=UWjva1RcpNM"
+          },
+          {
+            "titulo": "Especial Dihh Lopes",
+            "url": "https://www.youtube.com/watch?v=ibNPaUZnfEE"
+          }
+        ]
+      },
+      {
+        "titulo": "Comedy Central Brasil",
+        "cor": "#6b5be2",
+        "link_extra": {
+          "text": "A culpa é do cabral",
+          "url": "https://www.youtube.com/channel/UCgOObQ-WkK2EA4CwXWspHGQ"
+        },
+        "videos": [
+          {
+            "titulo": "Balão das Datas Brasileiras",
+            "url": "https://www.youtube.com/watch?v=0v-3Zux03Pg"
+          },
+          {
+            "titulo": "Aconteceu Comigo",
+            "url": "https://www.youtube.com/watch?v=8Viq4MKqJpM"
+          },
+          {
+            "titulo": "Lambida no Olho",
+            "url": "https://www.youtube.com/watch?v=ngzFaKwhX78"
+          },
+          {
+            "titulo": "Quem passou vergonha falando inglês",
+            "url": "https://www.youtube.com/watch?v=QigxMKGMJK8"
+          },
+          {
+            "titulo": "Balão das Notícias",
+            "url": "https://www.youtube.com/watch?v=ZOXUJ2lMwhA"
+          }
+        ]
+      }
     ]
-}
+  }
