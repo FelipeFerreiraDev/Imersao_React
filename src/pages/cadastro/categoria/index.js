@@ -3,6 +3,8 @@ import { Link } from 'react-router-dom';
 import PageDefault from '../../../components/PageDefault';
 import FormField from '../../../components/FormField';
 import './style.css';
+import useForm from '../../../hooks/useForm';
+
 
 function CadastroCategoria() {
   const valoresIniciais = {
@@ -11,22 +13,9 @@ function CadastroCategoria() {
     cor: '',
   };
 
+  const { handleChange, values, clearForm} = useForm(valoresIniciais);
+
   const [categorias, setCategorias] = useState([]);
-  const [values, setValues] = useState(valoresIniciais);
-
-  function setValue(chave, valor) {
-    setValues({
-      ...values,
-      [chave]: valor,
-    });
-  }
-
-  function handleChange(infosDoEvento) {
-    setValue(
-      infosDoEvento.target.getAttribute('name'),
-      infosDoEvento.target.value
-    );
-  }
 
   useEffect(() => {
       const URL = 'https://comedyfliix.herokuapp.com/categorias'; 
@@ -48,7 +37,7 @@ function CadastroCategoria() {
             values
           ]);
 
-          setValues(valoresIniciais)
+          clearForm(valoresIniciais)
       }}>
 
         <FormField
@@ -88,7 +77,7 @@ function CadastroCategoria() {
         {categorias.map((categoria, id) => {
           return (
             <li key={`${categoria}${id}`}>
-              {categoria.nome}
+              {categoria.titulo}
             </li>
           )
         })}
